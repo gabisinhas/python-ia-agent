@@ -19,24 +19,32 @@ This project is a Python-based AI agent designed for experimentation and learnin
 ### Installation
 
 1. Clone this repository:
+
    ```bash
    git clone <your-repo-url>
    cd python-ia-agent
+   ```
 
+2. Install dependencies:
 
-2. Install Dependencies:
+   ```bash
    pip install -r requirements.txt
+   ```
 
 ### Usage
 
-Run your main script or entry point
+Run your main script or entry point:
 
-    python main.py
+```bash
+python main.py
+```
 
 ### Project Structure
 
+```
 python-ia-agent/
 │
-├── [requirements.txt](http://_vscodecontentref_/0)     # Project dependencies
-├── [main.py](http://_vscodecontentref_/1)            # Main entry point (example)
-├── ...                # Other source files and modules
+├── requirements.txt     # Project dependencies
+├── main.py              # Main entry point (example)
+└── ...                  # Other source files and modules
+```
