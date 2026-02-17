@@ -1,0 +1,275 @@
+DESTINO: Paris, França
+- Transporte: O metrô de Paris cobre praticamente toda a cidade e é a forma mais eficiente de locomoção.
+- Alimentação: Restaurantes locais oferecem menus executivos no almoço com bom custo-benefício.
+- Hospedagem: Regiões como Montmartre e Quartier Latin oferecem opções mais acessíveis.
+- Pontos turísticos: Torre Eiffel, Museu do Louvre, Catedral de Notre-Dame.
+
+DESTINO: Roma, Itália
+- Transporte: O centro histórico pode ser explorado a pé; metrô e ônibus conectam áreas mais distantes.
+- Alimentação: Trattorias servem pratos típicos como carbonara e cacio e pepe.
+- Hospedagem: Trastevere e áreas próximas ao Vaticano são populares.
+- Pontos turísticos: Coliseu, Fórum Romano, Vaticano.
+
+DESTINO: Tóquio, Japão
+- Transporte: Sistema ferroviário altamente eficiente e pontual.
+- Alimentação: Sushi, ramen e bentô são facilmente encontrados.
+- Hospedagem: Hotéis cápsula e business hotels são opções econômicas.
+- Pontos turísticos: Shibuya, Akihabara, Templo Senso-ji.
+
+DESTINO: Londres, Reino Unido
+- Transporte: Metrô (Tube) e ônibus de dois andares cobrem toda a cidade.
+- Alimentação: Pubs oferecem pratos tradicionais como fish and chips.
+- Hospedagem: Zonas 2 e 3 costumam ter melhores preços.
+- Pontos turísticos: Big Ben, London Eye, Palácio de Buckingham.
+
+DESTINO: Madrid, Espanha
+- Transporte: Metrô moderno e fácil de usar.
+- Alimentação: Tapas e menus del día são comuns.
+- Hospedagem: Centro e bairros como Malasaña oferecem boas opções.
+- Pontos turísticos: Museu do Prado, Plaza Mayor, Palácio Real.
+
+DESTINO: Lisboa, Portugal
+- Transporte: Bondes históricos, metrô e ônibus.
+- Alimentação: Bacalhau, pastéis de nata e frutos do mar.
+- Hospedagem: Alfama e Baixa-Chiado são áreas populares.
+- Pontos turísticos: Torre de Belém, Mosteiro dos Jerónimos.
+
+DESTINO: Berlim, Alemanha
+- Transporte: Rede integrada de metrô, trens e ônibus.
+- Alimentação: Currywurst e comida internacional.
+- Hospedagem: Mitte e Kreuzberg são bem localizados.
+- Pontos turísticos: Portão de Brandemburgo, Muro de Berlim.
+
+DESTINO: Amsterdã, Holanda
+- Transporte: Bicicletas, bondes e metrô.
+- Alimentação: Cafés locais e comidas rápidas típicas.
+- Hospedagem: Áreas fora do centro reduzem custos.
+- Pontos turísticos: Museu Van Gogh, Casa de Anne Frank.
+
+DESTINO: Viena, Áustria
+- Transporte: Transporte público eficiente e pontual.
+- Alimentação: Pratos típicos como schnitzel.
+- Hospedagem: Distritos centrais são bem conectados.
+- Pontos turísticos: Palácio de Schönbrunn, Ópera de Viena.
+
+DESTINO: Praga, República Tcheca
+- Transporte: Bondes e metrô cobrem bem a cidade.
+- Alimentação: Cozinha local com carnes e sopas.
+- Hospedagem: Cidade Velha e Mala Strana.
+- Pontos turísticos: Ponte Carlos, Castelo de Praga.
+
+DESTINO: Atenas, Grécia
+- Transporte: Metrô moderno e ônibus.
+- Alimentação: Gyros, moussaka e culinária mediterrânea.
+- Hospedagem: Plaka é uma área tradicional.
+- Pontos turísticos: Acrópole, Partenon.
+
+DESTINO: Dublin, Irlanda
+- Transporte: Ônibus e trens urbanos.
+- Alimentação: Pubs oferecem pratos típicos.
+- Hospedagem: Centro e arredores do Rio Liffey.
+- Pontos turísticos: Trinity College, Guinness Storehouse.
+
+DESTINO: Oslo, Noruega
+- Transporte: Transporte público integrado.
+- Alimentação: Peixes e frutos do mar.
+- Hospedagem: Áreas fora do centro reduzem custos.
+- Pontos turísticos: Ópera de Oslo, Parque Vigeland.
+
+DESTINO: Estocolmo, Suécia
+- Transporte: Metrô, ônibus e balsas.
+- Alimentação: Pratos à base de peixe.
+- Hospedagem: Gamla Stan é bem localizada.
+- Pontos turísticos: Museu Vasa, Palácio Real.
+
+DESTINO: Helsinque, Finlândia
+- Transporte: Bondes e metrô.
+- Alimentação: Culinária nórdica simples.
+- Hospedagem: Centro compacto.
+- Pontos turísticos: Catedral de Helsinque, Suomenlinna.
+
+DESTINO: Copenhague, Dinamarca
+- Transporte: Bicicletas e metrô.
+- Alimentação: Restaurantes modernos e cafés.
+- Hospedagem: Vesterbro é uma área popular.
+- Pontos turísticos: Nyhavn, Pequena Sereia.
+
+DESTINO: Varsóvia, Polônia
+- Transporte: Metrô e bondes.
+- Alimentação: Pierogi e pratos tradicionais.
+- Hospedagem: Centro reconstruído.
+- Pontos turísticos: Cidade Velha, Castelo Real.
+
+DESTINO: Budapeste, Hungria
+- Transporte: Metrô e bondes.
+- Alimentação: Cozinha rica em carnes.
+- Hospedagem: Peste é mais movimentada.
+- Pontos turísticos: Parlamento, Termas Széchenyi.
+
+DESTINO: Moscou, Rússia
+- Transporte: Metrô extenso e eficiente.
+- Alimentação: Pratos tradicionais russos.
+- Hospedagem: Centro histórico é mais caro.
+- Pontos turísticos: Kremlin, Praça Vermelha.
+
+DESTINO: Ancara, Turquia
+- Transporte: Ônibus e metrô.
+- Alimentação: Kebab e pratos locais.
+- Hospedagem: Áreas centrais.
+- Pontos turísticos: Mausoléu de Atatürk.
+
+DESTINO: Cairo, Egito
+- Transporte: Táxis e metrô.
+- Alimentação: Comida árabe tradicional.
+- Hospedagem: Próximo ao Nilo.
+- Pontos turísticos: Pirâmides de Gizé, Museu Egípcio.
+
+DESTINO: Jerusalém, Israel
+- Transporte: Ônibus e bondes.
+- Alimentação: Culinária do Oriente Médio.
+- Hospedagem: Cidade Nova é mais moderna.
+- Pontos turísticos: Muro das Lamentações, Cidade Velha.
+
+DESTINO: Bangkok, Tailândia
+- Transporte: Skytrain, metrô e barcos.
+- Alimentação: Comida de rua famosa.
+- Hospedagem: Sukhumvit é bem localizada.
+- Pontos turísticos: Grande Palácio, Wat Arun.
+
+DESTINO: Pequim, China
+- Transporte: Metrô extenso.
+- Alimentação: Cozinha chinesa tradicional.
+- Hospedagem: Distritos centrais.
+- Pontos turísticos: Cidade Proibida, Muralha da China.
+
+DESTINO: Seul, Coreia do Sul
+- Transporte: Metrô moderno.
+- Alimentação: Kimchi e churrasco coreano.
+- Hospedagem: Myeongdong é popular.
+- Pontos turísticos: Palácio Gyeongbokgung.
+
+DESTINO: Nova Délhi, Índia
+- Transporte: Metrô e tuk-tuks.
+- Alimentação: Pratos indianos variados.
+- Hospedagem: Centro administrativo.
+- Pontos turísticos: Portão da Índia, Qutub Minar.
+
+DESTINO: Canberra, Austrália
+- Transporte: Ônibus.
+- Alimentação: Restaurantes modernos.
+- Hospedagem: Hotéis governamentais.
+- Pontos turísticos: Parlamento, Lago Burley Griffin.
+
+DESTINO: Wellington, Nova Zelândia
+- Transporte: Ônibus e teleférico.
+- Alimentação: Frutos do mar.
+- Hospedagem: Centro compacto.
+- Pontos turísticos: Te Papa Museum.
+
+DESTINO: Ottawa, Canadá
+- Transporte: Ônibus e trens leves.
+- Alimentação: Cozinha internacional.
+- Hospedagem: Centro da cidade.
+- Pontos turísticos: Parlamento, Canal Rideau.
+
+DESTINO: Washington, EUA
+- Transporte: Metrô eficiente.
+- Alimentação: Restaurantes variados.
+- Hospedagem: Áreas centrais.
+- Pontos turísticos: Casa Branca, Capitólio.
+
+DESTINO: Cidade do México, México
+- Transporte: Metrô barato.
+- Alimentação: Tacos e culinária local.
+- Hospedagem: Roma e Condesa.
+- Pontos turísticos: Zócalo, Museu Frida Kahlo.
+
+DESTINO: Brasília, Brasil
+- Transporte: Ônibus e carro.
+- Alimentação: Restaurantes variados.
+- Hospedagem: Setor Hoteleiro.
+- Pontos turísticos: Congresso Nacional, Catedral.
+
+DESTINO: Buenos Aires, Argentina
+- Transporte: Metrô e ônibus.
+- Alimentação: Carnes e parrillas.
+- Hospedagem: Palermo é popular.
+- Pontos turísticos: Casa Rosada, Caminito.
+
+DESTINO: Santiago, Chile
+- Transporte: Metrô moderno.
+- Alimentação: Cozinha chilena.
+- Hospedagem: Providencia e Las Condes.
+- Pontos turísticos: Cerro San Cristóbal.
+
+DESTINO: Lima, Peru
+- Transporte: Ônibus e táxis.
+- Alimentação: Gastronomia reconhecida mundialmente.
+- Hospedagem: Miraflores.
+- Pontos turísticos: Plaza Mayor, Costa Verde.
+
+DESTINO: Bogotá, Colômbia
+- Transporte: TransMilenio.
+- Alimentação: Pratos típicos colombianos.
+- Hospedagem: Zona T.
+- Pontos turísticos: Monserrate, Museu do Ouro.
+
+DESTINO: Caracas, Venezuela
+- Transporte: Metrô.
+- Alimentação: Arepas.
+- Hospedagem: Centro financeiro.
+- Pontos turísticos: Parque Nacional El Ávila.
+
+DESTINO: Havana, Cuba
+- Transporte: Táxis clássicos e ônibus.
+- Alimentação: Culinária cubana tradicional.
+- Hospedagem: Casas particulares.
+- Pontos turísticos: Habana Vieja, Malecón.
+
+DESTINO: Rabat, Marrocos
+- Transporte: Ônibus e trem.
+- Alimentação: Culinária marroquina.
+- Hospedagem: Centro histórico.
+- Pontos turísticos: Kasbah dos Oudaias.
+
+DESTINO: Pretória, África do Sul
+- Transporte: Ônibus e carro.
+- Alimentação: Cozinha local.
+- Hospedagem: Áreas governamentais.
+- Pontos turísticos: Union Buildings.
+
+DESTINO: Nairóbi, Quênia
+- Transporte: Ônibus e táxis.
+- Alimentação: Pratos africanos.
+- Hospedagem: Centro moderno.
+- Pontos turísticos: Parque Nacional de Nairóbi.
+
+DESTINO: Adis Abeba, Etiópia
+- Transporte: Ônibus e metrô leve.
+- Alimentação: Injera e pratos locais.
+- Hospedagem: Centro.
+- Pontos turísticos: Museu Nacional.
+
+DESTINO: Riad, Arábia Saudita
+- Transporte: Carro e metrô.
+- Alimentação: Culinária árabe.
+- Hospedagem: Hotéis modernos.
+- Pontos turísticos: Kingdom Centre.
+
+DESTINO: Doha, Catar
+- Transporte: Metrô moderno.
+- Alimentação: Restaurantes internacionais.
+- Hospedagem: Hotéis de luxo.
+- Pontos turísticos: Museu de Arte Islâmica.
+
+DESTINO: Abu Dhabi, Emirados Árabes Unidos
+- Transporte: Táxis e ônibus.
+- Alimentação: Culinária internacional.
+- Hospedagem: Hotéis de alto padrão.
+- Pontos turísticos: Mesquita Sheikh Zayed.
+
+DESTINO: Jacarta, Indonésia
+- Transporte: Ônibus e metrô.
+- Alimentação: Comida asiática local.
+- Hospedagem: Centro financeiro.
+- Pontos turísticos: Monumento Nacional.
